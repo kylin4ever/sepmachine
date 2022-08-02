@@ -32,7 +32,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 """
 
-__PROJECT_NAME__ = r"sepmachine2"
+__PROJECT_NAME__ = r"sepmachine-macos"
 __AUTHOR__ = r"kylin4ever"
 __AUTHOR_EMAIL__ = r"bestisor@163.com"
 __LICENSE__ = r"MIT"
